@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <style>
+<style>
     body {
       background-color: #121212;
       color: #c7c7c7;
@@ -47,10 +42,6 @@
       margin: 0;
     }
   </style>
-</head>
-
-<body>
-
 # PyRPC
 ![GitHub](https://img.shields.io/github/license/riviox/PyRPC)
 ![GitHub last commit](https://img.shields.io/github/last-commit/riviox/PyRPC)
@@ -83,9 +74,7 @@ This is a simple Discord Rich Presence application written in Python. It uses th
 ```bash
 pip install pyinstaller
 pyinstaller --onefile PyRPC.py
-PyRPC.exe should be in /dist/PyRPC.exe
+```
+PyRPC.exe should be in `/dist/PyRPC.exe`
 
-Made with love code by riviox
-
-</body>
-</html>
+Made with ~~love~~ code by riviox
