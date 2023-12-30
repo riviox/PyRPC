@@ -2,6 +2,8 @@
 ![GitHub](https://img.shields.io/github/license/riviox/PyRPC)
 ![GitHub last commit](https://img.shields.io/github/last-commit/riviox/PyRPC)
 
+# Join [Riviox's Community](https://discord.gg/FVAxsMbnk7)
+
 This is a simple Discord Rich Presence application written in Python. It uses the pypresence library to update your Discord status with information retrieved from a specified user ID.
 
 ## Features
