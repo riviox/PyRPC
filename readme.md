@@ -8,6 +8,8 @@
 
 # Join [Riviox's Community](https://discord.gg/FVAxsMbnk7)
 
+## [Download ZIP](https://codeload.github.com/riviox/PyRPC/zip/refs/heads/main) 
+
 This is a simple Discord Rich Presence application written in Python. It uses the pypresence library to update your Discord status with information retrieved from a specified user ID.
 
 ## Features
