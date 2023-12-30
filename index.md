@@ -1,6 +1,10 @@
 # PyRPC
 ![GitHub](https://img.shields.io/github/license/riviox/PyRPC)
 ![GitHub last commit](https://img.shields.io/github/last-commit/riviox/PyRPC)
+![GitHub Repo stars](https://img.shields.io/github/stars/riviox/PyRPC)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/riviox/PyRPC)
+[![Source Code](https://img.shields.io/badge/Source%20Code-riviox%2FPyRPC-blue)](https://github.com/riviox/PyRPC)
+
 
 # Join [Riviox's Community](https://discord.gg/FVAxsMbnk7)
 
